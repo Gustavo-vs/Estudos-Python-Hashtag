@@ -8,9 +8,9 @@ Repositório dedicado ao armazenamento de códigos, exercícios e projetos desen
 
 ### 🟢 Módulo 1: Fundamentos
 - [x] Configuração do ambiente (VS Code, Python e Git)
-- [ ] Variáveis e Tipos de Dados
-- [ ] Operações Matemáticas e Lógica
-- [ ] Estruturas Condicionais (If, Elif, Else)
+- [x] Variáveis e Tipos de Dados
+- [x] Operações Matemáticas e Lógica
+- [x] Estruturas Condicionais (If, Elif, Else)
 
 ### 🟡 Módulo 2: Estruturas de Dados e Repetição
 - [ ] Listas, Tuplas e Dicionários
